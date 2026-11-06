@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elianecpereirat-stack.github.io/campanha-sessao-estrategica/sitemap.xml
